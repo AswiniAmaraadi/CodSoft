@@ -1,3 +1,4 @@
+#task-2
 # Get the first number from the user
 n1 = int(input("Enter first number: "))
 

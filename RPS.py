@@ -1,4 +1,4 @@
-#task2 (rock,paper,scissor)
+#task-4 (rock,paper,scissor)
 
 import random
 rock = 0
